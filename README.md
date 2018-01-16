@@ -5,4 +5,9 @@
 </head>
 <body>
 <p style="color:DodgerBlue;">On this website you can type in topics and phrases got to do with history and different facts will come up about what you search</p>
-<input type="text" name="search" placeholder="Search..">
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="#about">About</a>
+  <a href="#contact">Contact</a>
+  <input type="text" placeholder="Search..">
+</div>
