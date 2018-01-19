@@ -45,6 +45,7 @@ li a:hover:not(.active) {
   <li><a class="active" href="#home">Home</a></li>
   <li><a href="#facts">Facts</a></li>
   <li><a href="#images">Images</a></li>
+  <input type="text" placeholder="Search..">
 </ul>
 
 </body>
