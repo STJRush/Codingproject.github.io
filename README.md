@@ -8,12 +8,47 @@
  </head>
  <strong>History wikipedia</strong>
 <body>
-  <div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#facts">Facts</a>
-  <a href="#images">Images</a>
-  <input type="text" placeholder="Search..">
-</div>
+  <head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+
+</body>
 <p style="color:DodgerBlue;">On this website you can type in topics and phrases got to do with history and different facts will come up about what you search</p>
   
 <p style="color:DodgerBlue;">When you click on the facts section of the website you can look up different topics and information will come up about them</p>
