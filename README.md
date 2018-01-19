@@ -1,8 +1,12 @@
-<!DOCTYPE html>
+
+
 <html>
-<head>
-<title>History wikipedia</title>
-</head>
+  
+   <head>
+
+       <title>History wikipedia</title>
+ </head>
+ <strong>History wikipedia</strong>
 <body>
   <div class="topnav">
   <a class="active" href="#home">Home</a>
