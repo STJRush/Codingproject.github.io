@@ -7,11 +7,11 @@
        <title>History wikipedia</title>
  </head>
  <strong>History wikipedia</strong>
-<body>{
+<body>
+  <head>
+<style>{
     background-color: tan;
 }
-  <head>
-<style>
 ul {
     list-style-type: none;
     margin: 0;
