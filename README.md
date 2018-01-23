@@ -7,7 +7,9 @@
        <title>History wikipedia</title>
  </head>
  <strong>History wikipedia</strong>
-<body>
+<body>{
+    background-color: tan;
+}
   <head>
 <style>
 ul {
