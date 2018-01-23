@@ -10,8 +10,6 @@
 <body>
   <head>
 <style>{
-    background-color: tan;
-}
 ul {
     list-style-type: none;
     margin: 0;
